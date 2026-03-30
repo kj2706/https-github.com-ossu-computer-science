@@ -25,5 +25,4 @@ The program uses the given menu, inventory, and sales data to simulate restauran
 - part2_order_system.py
 
 ## Author
-
-Rohini Patil
+Kajal Jaisinghani 
